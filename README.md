@@ -21,10 +21,9 @@ I am interested in technologies like JavaScript, Node.js, MongoDb and REST API. 
 
 
 
-### GitHub Stats
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=hiikmetgezmen"></img></div>
-### GitHub Languages
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiikmetgezmen"></div>
+
+<div><img style="height: %40; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=hiikmetgezmen"></img></div>
+<div><img style="height: %40; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiikmetgezmen"></div>
                       
                       
   
