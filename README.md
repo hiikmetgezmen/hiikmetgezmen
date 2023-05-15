@@ -22,8 +22,7 @@ I am interested in technologies like JavaScript, Node.js, MongoDb and REST API. 
 
 <div style="display: flex; flex-direction: row;">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiikmetgezmen)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiikmetgezmen)](https://github.com/anuraghazra/github-readme-stats)
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=hiikmetgezmen"></img>
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiikmetgezmen></img>
   
 </div>
