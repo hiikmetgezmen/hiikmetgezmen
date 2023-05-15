@@ -7,4 +7,5 @@ I am interested in technologies like JavaScript, Node.js, MongoDb and REST API. 
 You can also see the list of my projects on my linkedin profile: [Linkedin](https://www.linkedin.com/in/hikmet-gezmen-bb372b222/). I would be happy to present my CV to interested companies.
 
 
-[![Anurag's GitHub stats][![Top Langs](https://github-readme-stats.vercel.app/api?username=hiikmetgezmen)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiikmetgezmen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiikmetgezmen)](https://github.com/anuraghazra/github-readme-stats)
