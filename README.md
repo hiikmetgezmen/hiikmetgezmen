@@ -1,14 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Hikmet GEZMEN</h1>
+<h3 align="center">Jr. Software Engineer</h3>
 
 Hello, I'm Hikmet GEZMEN. I am currently residing in Sakarya, Turkey and continuing my undergraduate education in Software Engineering at Manisa Celal Bayar University.
 
 I am interested in technologies like JavaScript, Node.js, MongoDb and REST API. I'm also trying to learn technologies like Java and some React. Thanks to my work experience, I gained familiarity with teamwork and software development processes. I am currently working as a Software Engineer Intern in a software company where I continue to develop and develop my skills.
 
 You can also see the list of my projects on my linkedin profile: [Linkedin](https://www.linkedin.com/in/hikmet-gezmen-bb372b222/). I would be happy to present my CV to interested companies.
-
-
-<h1 align="center">Hi 👋, I'm Hikmet GEZMEN</h1>
-<h3 align="center">Jr. Software Engineer</h3>
 
 - 🌱 I’m currently learning **NodeJs, JavaScript, React & Java**
 
@@ -18,7 +15,7 @@ You can also see the list of my projects on my linkedin profile: [Linkedin](http
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hikmetgezmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hikmetgezmen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hikmetgezmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hikmet-gezmen-bb372b222/"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
