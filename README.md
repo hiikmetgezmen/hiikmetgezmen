@@ -8,3 +8,5 @@ You can also see the list of my projects on my linkedin profile: [Linkedin](http
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiikmetgezmen)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiikmetgezmen)](https://github.com/anuraghazra/github-readme-stats)
