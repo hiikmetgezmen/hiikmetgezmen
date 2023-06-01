@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hikmet GEZMEN</h1>
 <h3 align="center">Jr. Software Engineer</h3>
 
-Hello, I'm Hikmet GEZMEN. I am currently residing in Sakarya, Turkey and continuing my undergraduate education in Software Engineering at Manisa Celal Bayar University.
+Hello, I'm Hikmet GEZMEN. I am currently residing in Hatay, Turkey and continuing my undergraduate education in Software Engineering at Manisa Celal Bayar University.
 
 I am interested in technologies like JavaScript, Node.js, MongoDb and REST API. I'm also trying to learn technologies like Java and some React. Thanks to my work experience, I gained familiarity with teamwork and software development processes. I am currently working as a Software Engineer Intern in a software company where I continue to develop and develop my skills. I would be happy to present my CV to interested companies.
 
